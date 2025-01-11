@@ -1,0 +1,14 @@
+Input pl/0 file?   y
+0 const c=4;
+
+1 var b(0:c);
+
+1 begin
+
+2   read(b(3));
+
+7   read(b(1));
+
+12   write(b(3));
+
+16 end.
